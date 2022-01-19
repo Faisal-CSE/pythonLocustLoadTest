@@ -3,7 +3,9 @@ Load test in Locust
 
 
 
-> locust -f locustfile.py
+```go
+locust -f locustfile.py
+```
 
 OR
 
